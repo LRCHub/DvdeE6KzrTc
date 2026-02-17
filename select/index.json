@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Bulls On Parade",
+  "base_artist": "Rage Against The Machine",
+  "createdAt": "2026-02-17T13:05:19.882808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bulls On Parade",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/01_Bulls_On_Parade_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "02 Bulls On Parade",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/02_02_Bulls_On_Parade_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bulls on Parade",
+      "artist": "Rage Against the Machine",
+      "has_synced": true,
+      "path": "select/03_Bulls_on_Parade_Rage_Against_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bulls On Parade [Explicit]",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/04_Bulls_On_Parade_[Explicit]_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bulls on Parade",
+      "artist": "Rage Against the Machine",
+      "has_synced": true,
+      "path": "select/05_Bulls_on_Parade_Rage_Against_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bulls On Parade",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/06_Bulls_On_Parade_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bulls on Parade (live)",
+      "artist": "Rage Against The Machine",
+      "has_synced": false,
+      "path": "select/07_Bulls_on_Parade_(live)_Rage_Against_The_Machine.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bulls On Parade [Live]",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/08_Bulls_On_Parade_[Live]_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bulls On Parade (Live, Mexico City, Mexico, October 28, 1999)",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/09_Bulls_On_Parade_(Live,_Mexico_City,_Mexico,_October_28,_1999)_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bulls on Parade - Live at the Grand Olympic Auditorium, Los Angeles, CA - September 2000",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/10_Bulls_on_Parade_-_Live_at_the_Grand_Olympic_Auditorium,_Los_Angeles,_CA_-_Septem_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bulls On Parade",
+      "artist": "レイジ アゲインスト マシーン",
+      "has_synced": true,
+      "path": "select/11_Bulls_On_Parade_レイジ_アゲインスト_マシーン.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bulls on Parade[EXPLICIT]",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/12_Bulls_on_Parade[EXPLICIT]_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bulls on Parade",
+      "artist": "Rage Against the Machine",
+      "has_synced": true,
+      "path": "select/13_Bulls_on_Parade_Rage_Against_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bulls On Parade",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/14_Bulls_On_Parade_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bulls On Parade",
+      "artist": "Rage Against The Machine",
+      "has_synced": false,
+      "path": "select/pl_01_Bulls_On_Parade_Rage_Against_The_Machine.txt"
+    }
+  ]
+}
